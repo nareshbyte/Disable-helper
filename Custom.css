@@ -1,0 +1,22 @@
+﻿
+h1{
+    text-align:center;
+}
+label{
+    text-align:right;
+}
+.table > tbody > tr > th {
+    text-align: center;
+    color: white;
+}
+.table > tbody > tr > td
+ {
+    text-align: center;
+    text-transform:uppercase;
+    color:white;
+       
+}
+.containers {
+    margin-top: 65px;
+}
+

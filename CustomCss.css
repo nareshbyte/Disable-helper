@@ -1,0 +1,26 @@
+﻿.col-md-2 {
+    text-align: right;
+}
+
+.containers {
+    margin-top: 65px;
+}
+
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+}
+
+h2, h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ui-datepicker-month, .ui-datepicker-year {
+    color: Black;
+    background: #FFF;
+}
+
+table {
+    font-size: 14px;
+    font-family: Calibri;
+}
